@@ -10,7 +10,6 @@ This repository analyzes and visualizes data related to the popular anime series
 * Removed unnecessary columns: "english_air_date" and duplicate titles were dropped
 
 **Data Visualization and Analysis**
-
 ***Descriptive Statistics:***
 * Average rating: 7.29
 * Total episodes: 500
