@@ -20,7 +20,7 @@ This repository analyzes and visualizes data related to the popular anime series
 *Bar plot visualizing the average rating per writer
 
 **Dependencies**
-*Python 3.x
-*Pandas
-*Matplotlib
-*Seaborn
+* Python 3.x
+* Pandas
+* Matplotlib
+* Seaborn
