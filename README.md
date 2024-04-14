@@ -16,7 +16,7 @@ This repository analyzes and visualizes data related to the popular anime series
 * Top/Lowest Rated Episodes:
 * Scatter plot of votes vs. ratings
 * Histograms for episode lengths and air dates
-*Bar plot visualizing the average rating per writer
+* Bar plot visualizing the average rating per writer
 
 **Dependencies**
 * Python 3.x
